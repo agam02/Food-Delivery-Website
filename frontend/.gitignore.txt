@@ -1,0 +1,189 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Environment variables
+.env
+.env.test
+.env.*.local
+
+# MacOS
+.DS_Store
+
+# Build directories
+build/
+dist/
+out/
+tmp/
+temp/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE and editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# React Native
+*.expo
+.expo-shared/
+
+# Testing
+*.spec.js
+*.spec.jsx
+*.test.js
+*.test.jsx
+jest/
+
+# Miscellaneous
+*.class
+*.war
+*.jar
+*.db
+*.sqlite
+*.sql
+*.iml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional REPL history
+.node_repl_history
+
+# Next.js
+.next/
+out/
+
+# Gatsby files
+.cache/
+public/
+
+# Nuxt.js
+.nuxt/
+static/
+
+# Svelte.js
+.svelte-kit/
+
+# Firebase
+.firebase/
+.firebaserc
+.firebasehostingcache
+
+# Local project plugins
+/.plugins
+
+# TypeScript
+*.tsbuildinfo
+
+# Parcel-bundler
+.cache/
+
+# Lambda function directories
+.lambda/
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Terser cache
+.terser_cache/
+
+# Project specific files
+*.local
+*.log
+
+# Personal files
+*.secret
+
+# Miscellaneous files
+*.orig
+
+# Coverage files
+.coverage/
+
+# Documentation files
+docs/
+
+# VS Code user settings
+.vscode/
+
+# Webstorm project files
+.idea/
+
+# dotenv environment variables file
+.env
+
+# Local development files
+local/
+*.local
+*.dev
+
+# Compiled files
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Custom configuration files
+config/
+settings/
+
+# Temporary build files
+.tmp/
+
+# Application specific
+credentials.json
+keys.json
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Android specific
+*.apk
